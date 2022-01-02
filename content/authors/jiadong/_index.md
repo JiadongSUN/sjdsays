@@ -1,7 +1,7 @@
 ---
 title: Jiadong
 role: Ph.D. Student in Cryogenics
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 bio: "Never underestimate "
 interests:
   - int
