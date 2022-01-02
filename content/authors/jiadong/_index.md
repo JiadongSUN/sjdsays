@@ -10,10 +10,10 @@ interests:
 social:
   - display:
       header: true
-    icon_pack: fas
+  - icon_pack: fas
     icon: envelope
     link: vicinsjtu@sjtu.edu.cn
-    icon: github
+  - icon: github
     icon_pack: fab
     link: https://github.com/JiadongSUN
     
