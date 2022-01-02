@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiadong Sun (孙佳东, Vic)
+title: SJD
 
 # Is this the primary user of the site?
 superuser: true
