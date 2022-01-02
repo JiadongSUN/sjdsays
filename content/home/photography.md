@@ -1,8 +1,8 @@
 ---
-widget: Blank
+widget: blank
 widget_id: photography
 headless: true
-weight: 10
+weight: 20
 active: true
 design:
   columns: "2"
