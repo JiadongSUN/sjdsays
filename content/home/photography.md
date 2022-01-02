@@ -2,10 +2,10 @@
 widget: blank
 widget_id: photography
 headless: true
-weight: 20
+weight: 50
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
     text_color_light: false
     image_darken: 0
