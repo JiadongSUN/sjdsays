@@ -12,11 +12,11 @@ interests:
 
 education:
   courses:
-  - course: Doctor of Philosophy
-    institution: 上海交通大学
+  - course: Ph.D Student in Cryogenics
+    institution: Shanghai Jiao Tong University (上海交通大学)
     year: 2021-now
-  - course: Bachelor of Science
-    institution: 上海交通大学
+  - course: BSc in Energy and Power Engineering
+    institution: Shanghai Jiao Tong University (上海交通大学)
     year: 2017-2021
     
 social:
