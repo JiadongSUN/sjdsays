@@ -11,4 +11,5 @@ design:
   background:
     color: navy
     text_color_light: true
+    image: 0002_2021-10-03_663b1a4e.jpeg
 ---
