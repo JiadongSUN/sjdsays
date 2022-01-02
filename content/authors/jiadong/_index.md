@@ -22,7 +22,7 @@ education:
 social:
   - icon_pack: fas
     icon: envelope
-    link: 'vicinsjtu@sjtu.edu.cn'
+    link: "vicinsjtu@sjtu.edu.cn"
   - icon: github
     icon_pack: fab
     link: https://github.com/JiadongSUN
