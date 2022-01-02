@@ -16,3 +16,5 @@ social:
     link: https://github.com/JiadongSUN
 superuser: true
 ---
+
+Never underestimate the heart of a champion.
