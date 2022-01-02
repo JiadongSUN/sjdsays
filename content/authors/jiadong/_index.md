@@ -1,5 +1,7 @@
 ---
-title: Jiadong Sun (孙佳东, Vic)
+title: 
+  - Jiadong Sun
+  - (孙佳东, Vic)
 role: Ph.D. Student in Cryogenics
 avatar_filename: avatar.jpg
 bio: Never underestimate the heart of a champion
