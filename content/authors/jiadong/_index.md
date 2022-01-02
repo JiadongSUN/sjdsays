@@ -7,9 +7,9 @@ interests:
   - int
 social:
   - display:
-      header: false
+      header: true
     icon_pack: fas
     icon: envelope
     link: vicinsjtu@sjtu.edu.cn
-superuser: false
+superuser: true
 ---
