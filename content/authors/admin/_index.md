@@ -9,8 +9,8 @@ superuser: true
 role: Ph.D. student in Cryogenics
 
 # Status emoji
-status:
-  icon: 🐯
+# status:
+#  icon: 🐯
 
 # Organizations/Affiliations
 organizations:
@@ -42,12 +42,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: vicinsjtu@sjtu.edu.cn
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/wowchemy
-#- icon: instagram
-#  icon_pack: fab
-#  link: https://instagram.com/geocushen
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/wowchemy
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://instagram.com/geocushen
 
  Uncomment below for Github link
 - icon: github
