@@ -1,12 +1,11 @@
 ---
 title: 
-  - Jiadong Sun
-  - (孙佳东, Vic)
+  Jiadong Sun (孙佳东, Vic)
 role: Ph.D. Student in Cryogenics
 avatar_filename: avatar.jpg
 bio: Never underestimate the heart of a champion
 interests:
-  - Regrigeration and Cryogenics
+  - Refrigeration and Cryogenics
   - Heat and Mass Transfer
   - Energy Materials
 social:
