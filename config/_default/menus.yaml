@@ -7,12 +7,13 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: About
-    url: about/
-    weight: 20
   - name: Research
     url: research/
-    weight: 30
+    weight: 20
   - name: Miscellaneous
-    url: miscellaneous
+    url: miscellaneous/
+    weight: 30
+  - name: About
+    url: about/
     weight: 40
+    
