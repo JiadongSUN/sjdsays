@@ -1,41 +1,38 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Jiadong Sun (孙佳东, Vic)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: Ph.D. student in Cryogenics
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🐯
 
 # Organizations/Affiliations
 organizations:
-- name: 腾讯
+- name: Shanghai Jiao Tong University (上海交通大学)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Never underestimate the heart of a champion.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Refrigeration and Cryogenics
+- Heat and Mass Transfer
+- Energy Materials
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: Ph.D. in Cryogenics
+    institution: Shanghai Jiao Tong University
+    year: 2021-now
+  - course: BSc in Energy and Power Engineering
+    institution: Shanghai Jiao Tong University
+    year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,18 +41,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/wowchemy
-- icon: instagram
-  icon_pack: fab
-  link: https://instagram.com/geocushen
-
-# Uncomment below for Github link
-#- icon: github
+  link: vicinsjtu@sjtu.edu.cn
+#- icon: twitter
 #  icon_pack: fab
-#  link: https://github.com/gcushen
+#  link: https://twitter.com/wowchemy
+#- icon: instagram
+#  icon_pack: fab
+#  link: https://instagram.com/geocushen
+
+ Uncomment below for Github link
+- icon: github
+  icon_pack: fab
+  link: https://github.com/JiadongSUN
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
