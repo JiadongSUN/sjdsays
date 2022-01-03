@@ -20,4 +20,3 @@ feature:
     name: Photography
 active: true
 ---
-author: jiadong
