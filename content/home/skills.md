@@ -1,5 +1,5 @@
 ---
-widget: research
+widget: home
 widget_id: "001"
 headless: true
 weight: 30
