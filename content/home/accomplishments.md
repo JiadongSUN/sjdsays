@@ -51,4 +51,3 @@ item:
 design:
   columns: '2' 
 ---
-author: jiadong
