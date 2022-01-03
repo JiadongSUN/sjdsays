@@ -2,7 +2,7 @@
 widget: home
 widget_id: "001"
 headless: true
-weight: 50
+weight: 10
 title: Skills
 subtitle: null
 feature:
@@ -20,3 +20,4 @@ feature:
     name: Photography
 active: true
 ---
+author: jiadong
