@@ -1,5 +1,5 @@
 ---
-widget: featurette
+widget: research
 widget_id: "001"
 headless: true
 weight: 30
